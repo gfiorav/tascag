@@ -1,0 +1,24 @@
+{
+  "name": "tascag",
+  "version": "1.0.0",
+  "description": "A useful package to let other know they have erred in their judgemnt or actions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfiorav/tascag.git"
+  },
+  "author": "Guido Fioravantti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gfiorav/tascag/issues"
+  },
+  "homepage": "https://github.com/gfiorav/tascag#readme",
+  "devDependencies": {
+    "eslint": "^5.6.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
