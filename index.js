@@ -5,4 +5,4 @@ router.get('/fuera/*', (request, response) => {
   response.send(`Te has cagao fuera, ${name}`);
 });
 
-router.listen(process.env.PORT, () => {});
+router.listen(process.env.PORT || 3000, () => {});
